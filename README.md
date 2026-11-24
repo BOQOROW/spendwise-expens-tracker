@@ -29,3 +29,4 @@ Live site: coming soon (this will be added after deploying on Netlify)
 ## Author
 
 Boqorow
+Continuous deployment test: this site updates automatically when I push changes to GitHub.
