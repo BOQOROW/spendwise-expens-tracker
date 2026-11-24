@@ -24,7 +24,7 @@ SpendWise is a simple expense tracker that helps you manage your monthly budget.
 
 ## Live Demo
 
-Live site: coming soon (this will be added after deploying on Netlify)
+Live site: https://bokor-spenwise.netlify.app
 
 ## Author
 
